@@ -1,0 +1,21 @@
+$primary-color: rgb(44, 120, 227);
+$secondary-color: green;
+.primary-button {
+  background-color: $primary-color;
+  color: white;
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 10px;
+}
+.primary-button:hover {
+  background-color: rgb(50, 114, 203);
+  color: rgba(255, 255, 255, 0.854);
+  cursor: pointer;
+}
+.router-link-style {
+  text-decoration: none;
+  color: white;
+}
+.router-link-style:hover {
+  color: rgba(255, 255, 255, 0.808);
+}

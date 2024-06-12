@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_API_QL_NS", "Demo_API_QL_NS\Demo_API_QL_NS.csproj", "{E67E30A5-E561-4F91-B5E0-4770C8EA9F5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E67E30A5-E561-4F91-B5E0-4770C8EA9F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67E30A5-E561-4F91-B5E0-4770C8EA9F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67E30A5-E561-4F91-B5E0-4770C8EA9F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67E30A5-E561-4F91-B5E0-4770C8EA9F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46CF1462-6A7A-4147-A399-E325F05BC97A}
+	EndGlobalSection
+EndGlobal
